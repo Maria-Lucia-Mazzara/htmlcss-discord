@@ -221,6 +221,7 @@ header {
     width: 60%;
 
 }
+
 #imgpet img {
     width: 100%;
 }
@@ -277,6 +278,8 @@ header {
     width: 30%;
 }
 
+/* fine terza sezione mai*/
+
 #meeting {
     justify-content: center;
     flex-direction: column;
@@ -290,23 +293,27 @@ header {
 }
 
 #tecnology {
-    padding-left: 75px;
+    padding-left: 300px;
     padding-bottom: 50px;
 }
 
 #imgmeet {
-    padding-left: 75px;
+    width: 50%;
+}
+
+#imgmeet img {
+    width: 100%;
 }
 
 #domanda {
     font-size: 30px;
-    padding-left: 400px;
+    margin-left: 700px;
 
 }
 
 .scarica {
     margin-top: 35px;
-    margin-left: 450px;
+    margin-left: 700px;
     width: 15%;
 }
 
@@ -314,11 +321,26 @@ header {
 
 /*inizio footer*/
 
+footer {
+    background-color: #23272a;
+}
 
 #footer {
     padding: 50px;
     justify-content: space-between;
+}
 
+
+.violet{
+    color: #7187d7;
+}
+
+.italogo {
+    padding-top: 10px;
+    width: 30px;
+}
+.italogo img{
+    width: 100%;
 }
 
 #pie {
