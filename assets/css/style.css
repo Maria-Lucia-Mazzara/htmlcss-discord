@@ -190,6 +190,7 @@ header {
 
 #intestazione {
     padding-top: 70px;
+    padding-bottom: 50px;
     font-size: 30px;
     width: 500px;
     color: white;
@@ -199,7 +200,8 @@ header {
 
 #action {
     margin-right: 80px;
-    margin-top: 80px;
+    margin-top: 30px;
+    margin-bottom: 100px;
     justify-content: space-around;
 
 }
@@ -217,6 +219,9 @@ header {
     width: 60%;
 
 }
+#imgpet img {
+    width: 100%;
+}
 
 #texspiking {
     font-size: 30px;
@@ -230,7 +235,7 @@ header {
 #voicechannel {
     justify-content: space-around;
     align-items: center;
-    padding: 250px;
+    padding: 30px;
 }
 
 #texvoice {
@@ -273,7 +278,7 @@ header {
 #meeting {
     justify-content: center;
     flex-direction: column;
-    padding: 300px;
+    padding: 30px;
 }
 
 #texcontact {
