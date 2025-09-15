@@ -12,14 +12,14 @@
 /* search bar*/
 .debug #logo {
     background-color: red;
-    width: 142px;
+    width: 140px;
     height: 48px;
 }
 
 .debug #search_bar {
     background-color: red;
-    width: 536px;
-    height: 37px;
+    width: 370px;
+    height: px;
 }
 
 .debub button {
@@ -183,7 +183,7 @@ header {
 
 
 #titolo {
-    padding-top: 20px;
+    padding-top: 50px;
     color: white;
     padding-right: 90px;
 
@@ -191,7 +191,7 @@ header {
 }
 
 #intestazione {
-    padding-top: 20px;
+    padding-top: 70px;
     font-size: 30px;
     width: 500px;
     color: white;
@@ -200,9 +200,9 @@ header {
 
 
 #action {
+    margin-right: 80px;
+    margin-top: 80px;
     justify-content: space-around;
-    padding-top: 60px;
-    padding-right: 70px;
 
 }
 
@@ -269,6 +269,39 @@ header {
     padding-top: 10px;
     width: 30%;
     height: 300px;
+}
+
+#meeting {
+    justify-content: center;
+    flex-direction: column;
+    padding: 300px;
+}
+
+#texcontact {
+    padding-top: 30px;
+    font-size: 30px;
+
+}
+
+#tecnology {
+    padding-left: 75px;
+    padding-bottom: 50px;
+}
+
+#imgmeet {
+    padding-left: 75px;
+}
+
+#domanda {
+    font-size: 30px;
+    padding-left: 400px;
+
+}
+.scarica {
+    margin-top: 35px;
+    margin-left: 450px;
+    width: 15%;
+    height: 50px;
 }
 
 /*fine main*/
