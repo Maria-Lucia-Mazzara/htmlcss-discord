@@ -293,7 +293,7 @@ header {
 }
 
 #tecnology {
-    padding-left: 300px;
+    padding-left: 360px;
     padding-bottom: 50px;
 }
 
@@ -314,7 +314,7 @@ header {
 
 .scarica {
     margin-top: 35px;
-    margin-left: 700px;
+    margin-left: 710px;
     width: 15%;
 }
 
@@ -369,8 +369,7 @@ footer {
 }
 
 #discord {
-    width: 5%;
-    height: 100px;
+    margin-top: 50px;
 }
 
 .registrati {
