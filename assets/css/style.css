@@ -168,33 +168,31 @@ header {
     height: 37px;
 }
 
-button {
-    width: 5%;
-    height: 5%;
-}
-.imgheader{
-    width: 80%;
-    height: 300px;
-}
 
 #jumbotron {
     flex-direction: column;
     align-items: center;
+    
 }
 
-#titolo {
-    width: 653px;
-    height: 96px;
+.imgjumbo{
+    width: 100%;
+    height: 300px;
+}
+
+#titolo{
+    padding-top: 20px;
+   
 }
 
 #intestazione {
-    width: 769px;
-    height: 119px;
+ padding-top: 20px;
 }
 
+
 #action {
-    width: 616px;
-    height: 107px;
+     justify-content: space-around;
+     padding-top: 20px;
 
 }
 
@@ -202,37 +200,44 @@ button {
 
 /*main*/
 
-#section1 {
-    justify-content: space-around;
+#spiking {
     align-items: center;
     padding: 20px;
 }
 
-#img1 {
+#imgpet {
     width: 60%;
     height: 300px;
 
 }
 
-#intestazione1 {
+#texspiking {
+    font-size: 35px;
+    padding-top: 10px;
     width: 30%;
     height: 300px;
+    
 }
 
 /* fine prima sezione main*/
 
-#section2 {
+#voicechannel {
     justify-content: space-around;
     align-items: center;
-    padding: 20px;
+    padding: 250px;
 }
 
-#intestazione2 {
+#texvoice {
+    font-size: 40px;
+    padding-top: 10px;
     width: 30%;
     height: 300px;
+    
+   
 }
 
-#img2 {
+#imgvoice {
+    padding-left: 150px;
     width: 60%;
     height: 300px;
 }
