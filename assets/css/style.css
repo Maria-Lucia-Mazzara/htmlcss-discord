@@ -1,0 +1,262 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.debug * {
+    border: 3px dashed #000;
+
+}
+
+/* search bar*/
+.debug #logo {
+    background-color: red;
+    width: 142px;
+    height: 48px;
+}
+
+.debug #search_bar {
+    background-color: red;
+    width: 536px;
+    height: 37px;
+}
+
+.debub button {
+    background-color: red;
+    width: 87px;
+    height: 55px;
+}
+
+/* /search bar debug*/
+
+.debug #titolo {
+    background-color: red;
+    width: 653px;
+    height: 96px;
+}
+
+.debug #intestazione {
+    background-color: rgb(12, 229, 99);
+    width: 769px;
+    height: 119px;
+}
+
+.debug #action {
+    background-color: red;
+    width: 616px;
+    height: 107px;
+}
+
+/*jumbotron debug*/
+
+.debug #img1 {
+    background-color: palevioletred;
+    width: 60%;
+    height: 300px;
+}
+
+.debug #intestazione1 {
+    background-color: black;
+    width: 30%;
+    height: 300px;
+}
+
+/* debug section1*/
+
+.debug #intestazione2 {
+    background-color: black;
+    width: 30%;
+    height: 300px;
+}
+
+.debug #img2 {
+    background-color: palevioletred;
+    width: 60%;
+    height: 300px;
+}
+
+/* debug section2*/
+
+.debug #img3 {
+    background-color: palevioletred;
+    width: 60%;
+    height: 300px;
+}
+
+.debug #intestazione3 {
+    background-color: black;
+    width: 30%;
+    height: 300px;
+}
+
+/* fine debug main*/
+
+/*inizio debug footer*/
+
+.debug #aiuto {
+    background-color: black;
+    width: 20%;
+    height: 400px;
+}
+
+.debug #prodotto {
+    background-color: black;
+    width: 20%;
+    height: 400px;
+}
+
+.debub #compagnia {
+    background-color: black;
+    width: 20%;
+    height: 400px;
+
+}
+
+.debug #risorse {
+    background-color: black;
+    width: 20%;
+    height: 400px;
+}
+
+.debug #norme {
+    background-color: black;
+    width: 20%;
+    height: 400px;
+}
+
+.debug #discord {
+    background-color: black;
+    width: 5%;
+    height: 100px;
+}
+/*fine footer*/
+
+/*header*/
+
+header {
+    background-color: #3161e0;
+
+}
+
+.conteiner {
+    margin: auto;
+
+}
+
+.d-flex {
+    display: flex;
+}
+
+/*inizio searh bar*/
+
+#search {
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.conteiner1 {
+    background-color: #3161e0;
+}
+
+#jumbotron {
+    flex-direction: column;
+    align-items: center;
+}
+
+#titolo {
+    width: 653px;
+    height: 96px;
+}
+
+#intestazione {
+    width: 769px;
+    height: 119px;
+}
+
+#action {
+    width: 616px;
+    height: 107px;
+
+}
+
+/* fine header*/
+
+/*main*/
+
+#section1 {
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+#img1 {
+    width: 60%;
+    height: 300px;
+
+}
+
+#intestazione1 {
+    width: 30%;
+    height: 300px;
+}
+
+/* fine prima sezione main*/
+
+#section2 {
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+#intestazione2 {
+    width: 30%;
+    height: 300px;
+}
+
+#img2 {
+    width: 60%;
+    height: 300px;
+}
+
+/* fine seconda sezione main*/
+
+#section3 {
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+#img3 {
+    width: 60%;
+    height: 300px;
+
+}
+
+#intestazione3 {
+    width: 30%;
+    height: 300px;
+}
+
+/*fine main*/
+
+/*inizio footer*/
+
+
+#footer {
+    padding: 50px;
+    justify-content: space-between;
+
+}
+
+#pie{
+padding: 50px;
+    justify-content: space-between;
+
+}
+
+#discord {
+    width: 5%;
+    height: 100px;
+}
+
