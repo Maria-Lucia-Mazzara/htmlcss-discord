@@ -297,12 +297,13 @@ header {
     padding-bottom: 50px;
 }
 
-#imgmeet {
-    width: 50%;
+.imgmeet {
+    justify-content: center;
+    width: 100%;
 }
 
-#imgmeet img {
-    width: 100%;
+.imgmeet img {
+    width: 50%;
 }
 
 #domanda {
@@ -339,8 +340,26 @@ footer {
     padding-top: 10px;
     width: 30px;
 }
+
 .italogo img{
     width: 100%;
+}
+
+#prodotto {
+    color: white;
+    
+}
+
+#compagnia {
+    color: white;
+}
+
+#risorse{
+    color: white;
+}
+
+#norme {
+    color: white;
 }
 
 #pie {
@@ -359,3 +378,4 @@ footer {
     width: 5%;
     height: 5%;
 }
+
