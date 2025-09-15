@@ -202,7 +202,7 @@ header {
 
 #spiking {
     align-items: center;
-    padding: 20px;
+    padding: 30px;
 }
 
 #imgpet {
@@ -212,8 +212,8 @@ header {
 }
 
 #texspiking {
-    font-size: 35px;
-    padding-top: 10px;
+    font-size: 30px;
+    padding-top: 20px;
     width: 30%;
     height: 300px;
     
@@ -228,12 +228,10 @@ header {
 }
 
 #texvoice {
-    font-size: 40px;
+    font-size: 35px;
     padding-top: 10px;
     width: 30%;
     height: 300px;
-    
-   
 }
 
 #imgvoice {
