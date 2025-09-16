@@ -172,6 +172,7 @@ header {
     width: 536px;
     color: white;
 }
+
 .btn {
     padding: 0.25rem 0.5rem; 
     border: 1px solid;
@@ -185,7 +186,12 @@ header {
 
 .btn-light {
     background-color: white;
-    color: #000;
+    color: black;
+}
+
+.btn-black {
+    background-color: black;
+    color: white;
 }
 
 /* fine search bar ed header*/
@@ -351,14 +357,29 @@ header {
 
 #domanda {
     font-size: 30px;
-    margin-left: 700px;
+    margin-left: 570px;
 
 }
 
-.scarica {
-    margin-top: 35px;
-    margin-left: 710px;
-    width: 15%;
+.btn {
+    padding: 0.25rem 0.5rem; 
+    border: 1px solid;
+    border-radius: 0.75rem;
+
+}
+
+.btn-lg{
+    padding: 0.5rem 0.75rem;
+}
+
+.btn-light {
+    background-color: white;
+    color: black;
+}
+
+.btn-black {
+    background-color: black;
+    color: white;
 }
 
 /*fine main*/
