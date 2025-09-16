@@ -377,11 +377,14 @@ header {
     color: black;
 }
 
-.btn-black {
-    background-color: black;
+.btn-violet {
+    background-color: #7187d7;
     color: white;
 }
-
+.load {
+    margin-left: 750px;
+    margin-right: 710px;
+}
 /*fine main*/
 
 /*inizio footer*/
