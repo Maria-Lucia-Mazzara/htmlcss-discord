@@ -226,6 +226,27 @@ header {
 
 }
 
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 0.25rem 0.5rem; 
+    border-radius: 0.75rem;
+
+}
+
+.btn-lg{
+    padding: 0.5rem 0.75rem;
+}
+
+.btn-light {
+    background-color: white;
+    color: #000;
+}
+.btn-black {
+    background-color: black;
+    color: white;
+}
+
 /* fine prima parte main*/
 
 /*main*/
