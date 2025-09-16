@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: sans-serif;
+    min-width: 1200px;
+}
 
 .debug * {
     border: 3px dashed #000;
