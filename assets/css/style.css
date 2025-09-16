@@ -168,6 +168,24 @@ header {
     width: 536px;
     color: white;
 }
+.btn {
+    padding: 0.25rem 0.5rem; 
+    border: 1px solid;
+    border-radius: 0.75rem;
+
+}
+
+.btn-lg{
+    padding: 0.5rem 0.75rem;
+}
+
+.btn-light {
+    background-color: white;
+    color: #000;
+}
+
+/* fine search bar ed header*/
+
 
 .imgjumbotron {
     background-image: url(/assets/img/jumbo.png);
@@ -208,7 +226,7 @@ header {
 
 }
 
-/* fine header*/
+/* fine prima parte main*/
 
 /*main*/
 
